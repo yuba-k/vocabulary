@@ -2,3 +2,4 @@ vocabulary/
 src/__pycache__/
 src/vocabulary.csv
 vocabulary_v-1-2.exe
+stc/test.py
